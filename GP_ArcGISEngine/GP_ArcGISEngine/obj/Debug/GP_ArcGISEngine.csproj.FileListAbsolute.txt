@@ -1,0 +1,8 @@
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\obj\Debug\GP_ArcGISEngine.Form1.resources
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\obj\Debug\GP_ArcGISEngine.Properties.Resources.resources
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\obj\Debug\GP_ArcGISEngine.csproj.GenerateResource.Cache
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\bin\Debug\GP_ArcGISEngine.exe.config
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\bin\Debug\GP_ArcGISEngine.exe
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\bin\Debug\GP_ArcGISEngine.pdb
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\obj\Debug\GP_ArcGISEngine.exe
+D:\E_new\ZhuXinying\myself code\2017Project\GP_ArcGISEngine\GP_ArcGISEngine\obj\Debug\GP_ArcGISEngine.pdb
